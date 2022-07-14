@@ -10,7 +10,7 @@ def register(cb):
 
 
 class TagallMod(loader.Module):
-    """Tag Module For chat Star Mafia"""
+    """<b>Tag Module для чата "🌌𝚂𝚝𝚊𝚛𝙼𝚊𝚏𝚒𝚊🪐"</b> """
     strings = {'name': 'Startag'}
 
     
