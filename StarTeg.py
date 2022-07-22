@@ -6,10 +6,10 @@ import socket
 
 
 def register(cb):
-    cb(TagallMod())
+    cb(TagMod())
 
 
-class TagallMod(loader.Module):
+class TaglMod(loader.Module):
     """TagModule для чата "🌌𝚂𝚝𝚊𝚛𝙼𝚊𝚏𝚒𝚊🪐" """
     strings = {'name': 'Startag'}
 
