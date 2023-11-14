@@ -10,8 +10,8 @@ def register(cb):
 
 
 class TaglMod(loader.Module):
-    """TagModule для чата "🌌𝚂𝚝𝚊𝚛𝙼𝚊𝚏𝚒𝚊🪐" """
-    strings = {'name': 'Startag'}
+    """TagModule для "Лис🦊" """
+    strings = {'name': 'tag mod'}
 
     
     async def тcmd(self, event):
